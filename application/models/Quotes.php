@@ -25,7 +25,7 @@ class Quotes extends CI_Model {
 			'what' => 'Those people who think they know everything are a great annoyance to those of us who do.'),
 			
 		array('id' => '7', 'who' => 'Happy Guy', 'mug' => 'happyguy-150x150.jpg', 'where' => '/happy',
-			'what' => ':)')
+			'what' => ':D')
 	);
 
 	// Constructor
