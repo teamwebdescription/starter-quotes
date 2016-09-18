@@ -16,4 +16,4 @@ Changelog:
 TEsting Testing Testing
 =======
 2016-09-17 7:50PM - Happy guy image and his quote added!!!!!!
->>>>>>> 7af4282c4836ff2cbbc258383631c46ae2755566
+2016-09-17 10:58PM - added 'what' to welcome list and tooltips
