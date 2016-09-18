@@ -17,3 +17,4 @@ TEsting Testing Testing
 =======
 2016-09-17 7:50PM - Happy guy image and his quote added!!!!!!
 2016-09-17 10:58PM - added 'what' to welcome list and tooltips
+2016-09-17 11:34PM - Added random function to display random quote on Welcome.php
