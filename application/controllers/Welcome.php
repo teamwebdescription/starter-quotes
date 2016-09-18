@@ -40,6 +40,7 @@ class Welcome extends Application
 		$record = $source[rand(1, 7)];
 		$authors[] = array ('who' => $record['who'], 'mug' => $record['mug'], 'href' => $record['where'], 'what' => $record['what']);
 		
+                
 		$this->data['authors'] = $authors;
 
 		$this->render();
